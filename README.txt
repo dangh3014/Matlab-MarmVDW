@@ -1,1 +1,0 @@
-This program solves the Rayleigh-Plesset type bubble equation with Marmottant shell parameters and van der Waals gas properties.
